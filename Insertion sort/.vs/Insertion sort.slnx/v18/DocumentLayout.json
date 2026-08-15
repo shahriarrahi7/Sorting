@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shahriar Rahi\\source\\repos\\Insertion sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFB8F65-B39A-4290-9AD6-1B4EC3DB2FE8}|Insertion sort\\Insertion sort.csproj|c:\\users\\shahriar rahi\\source\\repos\\insertion sort\\insertion sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFB8F65-B39A-4290-9AD6-1B4EC3DB2FE8}|Insertion sort\\Insertion sort.csproj|solutionrelative:insertion sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shahriar Rahi\\source\\repos\\Insertion sort\\Insertion sort\\Program.cs",
+              "RelativeDocumentMoniker": "Insertion sort\\Program.cs",
+              "ToolTip": "C:\\Users\\Shahriar Rahi\\source\\repos\\Insertion sort\\Insertion sort\\Program.cs",
+              "RelativeToolTip": "Insertion sort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T15:40:00.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
