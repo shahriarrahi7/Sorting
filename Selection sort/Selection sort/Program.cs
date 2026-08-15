@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Insertion(int[]arr)
+        static void Selection(int[]arr)
         {
             int n = arr.Length;
 
